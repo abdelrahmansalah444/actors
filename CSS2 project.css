@@ -1,0 +1,41 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(photos/b2.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 130vh;
+        background-attachment: fixed;
+    color:silver;
+text-align: center;}
+.x1{
+   font-size: x-large;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+color: silver;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: oblique;
+}
+ul{
+    text-align: left;
+}
+a:hover{
+color: red;
+}
+div{
+    text-align: left;
+    font-size: x-large;
+}
+.c{
+    border: 10px white solid;
+}
+table{
+    text-align: center;
+    border: 1px black solid;
+    width: 400px;   
+}
+th,td{
+    border: 1px white solid;
+    width: 400px;
+}
